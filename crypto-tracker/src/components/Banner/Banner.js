@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            GENERAL'S CRYTPO HUNTING
+            KRISHNA CRYPTO HUNT
           </Typography>
           <Typography
             variant="subtitle2"
